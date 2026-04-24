@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <main className="relative">
       <Nav />
-      <Hero workCount={works.length} />
+      <Hero />
       <WorkGrid works={works} />
       <About />
       <Services />

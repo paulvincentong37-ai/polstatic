@@ -7,6 +7,7 @@ const clients = [
   "LifeVac",
   "Tennis Prints",
   "Entrepreneur Coach",
+  "Blissta",
 ];
 
 export default function Clients() {

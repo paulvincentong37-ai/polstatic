@@ -62,8 +62,8 @@ export default function WorkGrid({ works }: { works: Work[] }) {
               Selected Work
             </p>
             <h2 className="mt-3 font-display text-3xl leading-[1.05] tracking-tighter md:text-5xl">
-              {visible.length} creatives,{" "}
-              <em className="text-dim">one thesis</em> — stop the scroll.
+              Creatives with <em className="text-dim">one thesis</em> — stop
+              the scroll.
             </h2>
           </div>
           <div className="flex flex-wrap gap-2">

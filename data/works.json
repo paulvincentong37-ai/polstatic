@@ -263,6 +263,174 @@
       "description": "Mechanism-of-action ad. Muscle Relaxation → Reduced Inflammation → Pain-Free Movement, paired with three floating Ketro jars. Teaches the product without selling it.",
       "category": "Pain Relief",
       "client": "Ketro"
+    },
+    {
+      "id": "gluco-gone-bread-was-life",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM.jpg",
+      "title": "Gluco Gone — Bread Was Life, Now Enemy",
+      "description": "Emotional loss hook for TheElixir's berberine dropper. Dark bakery setting with a stack of amber benefit chips — Bread Every Morning, Bakery Visits Return, 5.4 with Daily Bread, Tears to Joy — sells the return, not the restriction.",
+      "category": "Supplements",
+      "client": "TheElixir"
+    },
+    {
+      "id": "gluco-gone-730-days",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 2.jpg",
+      "title": "Gluco Gone — Haven't Tasted Bread In 730 Days",
+      "description": "Soft cream counterpart to the bakery ad. A single slice of sourdough opposite the dropper carries the whole denial the copy names — quieter frame, same emotional weight.",
+      "category": "Supplements",
+      "client": "TheElixir"
+    },
+    {
+      "id": "gluco-gone-180-blood",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 10.jpg",
+      "title": "Gluco Gone — 180 Fasting Glucose, Inside Your Blood",
+      "description": "Mechanism ad built on a shattering blood vessel with a sugar cube mid-impact. Positions the liquid berberine as the thing Metformin doesn't catch — visual weight does the teaching.",
+      "category": "Supplements",
+      "client": "TheElixir"
+    },
+    {
+      "id": "blissta-magnesium-leg-destroys",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 3.jpg",
+      "title": "Blissta Magnesium — Paralyzed In Bed While Your Leg Destroys Itself",
+      "description": "3AM leg-cramp hook for Blissta's 8-form magnesium. Four symmetrical benefit bubbles — muscle tension, deep sleep, fall back asleep, stops cramps in 7 days — orbit the bottle on a crumpled duvet.",
+      "category": "Supplements",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-magnesium-8-hour-plan",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 4.jpg",
+      "title": "Blissta Magnesium — Your 8-Hour Protection Plan",
+      "description": "Clock-face infographic mapping each elemental magnesium form to an hour of the night — Citrate at 10PM through Oxide at 5AM. Teaches the \"why 8 forms\" without a single bullet.",
+      "category": "Supplements",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-magnesium-panic-time",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 5.jpg",
+      "title": "Blissta Magnesium — Sleeping Past Your Panic Time",
+      "description": "Mid-funnel social-proof creative. Deep blue hero, a tight subhead naming the 3AM panic, and a 4.9/5 from Panic Sufferers bar closes the frame.",
+      "category": "Supplements",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-collagen-type-ii",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 6.jpg",
+      "title": "Blissta Collagen — Without Type II Won't Fix Your Joints",
+      "description": "Education-first hook on a glowing X-ray knee. Four dotted callouts — rebuilds cartilage, swelling gone, move without wincing, stop relying on painkillers — tie the bottle to the joint it's rebuilding.",
+      "category": "Supplements",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-collagen-incomplete",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 7.jpg",
+      "title": "Blissta Collagen — Your Collagen Is Incomplete",
+      "description": "Floating-bottle hero with five orbiting chips mapping each collagen type (I, II, III, V, X) to what it repairs. Makes the \"5 types\" claim legible at a glance.",
+      "category": "Supplements",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-collagen-knees-cracking",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 8.jpg",
+      "title": "Blissta Collagen — Knees Cracking Every Morning?",
+      "description": "Serif-led question hook paired with an X-ray knee and three stacked benefit chips — move without stiffness, no more snap crackle pop, joints that feel young. Softer tone for an older audience.",
+      "category": "Supplements",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-collagen-hair-falling",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 9.jpg",
+      "title": "Blissta Collagen — Hair Falling Out?",
+      "description": "Repositions the collagen peptides as a hair product. Purple staging with a loose hair clump on a comb, Type V callouts anchoring the follicle angle without abandoning the parent claim.",
+      "category": "Hair Care",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-painbloc-nerve-compound",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 11.jpg",
+      "title": "Blissta PainBloc — The Nerve Compound Your Body Stopped Producing",
+      "description": "Hand-held bottle shot under a 4-stage timeline — Week 2–3 sleep deepens, through Month 3+ patients reduce gabapentin entirely. Sells a restoration arc, not a pill.",
+      "category": "Pain Relief",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-painbloc-vs-gabapentin",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 12.jpg",
+      "title": "Blissta PainBloc — You're On The Wrong One",
+      "description": "Side-by-side comparison ad. Generic gabapentin bottle vs PainBloc, with a red-X / blue-check list that reframes the nerve-pain decision in the ad's own vocabulary.",
+      "category": "Pain Relief",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-painbloc-brain-zaps",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 13.jpg",
+      "title": "Blissta PainBloc — Gabapentin Gave Me Brain Zaps",
+      "description": "Testimonial-timeline creative. Discarded pill bottles pile behind PainBloc while Day 4 / 10 / 18 / 25 milestones trade scripts for small, specific wins — slept past 4AM, husband said I seemed like myself again.",
+      "category": "Pain Relief",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-mb-chinese-poison",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 14.jpg",
+      "title": "Blissta Methylene Blue — Still Choosing Chinese Poison?",
+      "description": "Purity-positioning ad. A single Methylene Blue bottle sits in a miniature shopping cart on stark white — the headline weaponizes the competitor before the product is even explained.",
+      "category": "Supplements",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-mb-lyrica-fibromyalgia",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 15.jpg",
+      "title": "Blissta Methylene Blue — Why Lyrica Can't Fix Fibromyalgia",
+      "description": "Mechanism reframe for the fibromyalgia audience. Red-X / green-check split tells the reader Lyrica targets nerve signals while the real problem is mitochondrial energy — a glass of neon-blue water makes the claim visible.",
+      "category": "Pain Relief",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-mb-long-covid",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 16.jpg",
+      "title": "Blissta Methylene Blue — Time Didn't Fix It",
+      "description": "Long-COVID angle for the brain-fog audience. Deep blue satin backdrop, three spoken-thought bullets — losing words mid-sentence, doctor said give it time, neurons don't repair on a waiting list.",
+      "category": "Supplements",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-mb-same-ceiling",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 17.jpg",
+      "title": "Blissta Methylene Blue — Same Ceiling",
+      "description": "Performance-audience cut. Four green checks — Sleep, Diet, Training, Stack — then \"Same Ceiling,\" pinning the plateau on an unaddressed electron transport chain. Minimal type, one product.",
+      "category": "Supplements",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-mb-feeds-the-cell",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 18.jpg",
+      "title": "Blissta Methylene Blue — Feeds The Cell",
+      "description": "Mechanism ad against ibuprofen. A blue stream from the dropper feeds an illustrated mitochondrion — ATP production, oxidative stress reduction, electron transport chain labeled around it. Teaches \"surface vs source\" in one frame.",
+      "category": "Supplements",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-mb-brain-fog",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 19.jpg",
+      "title": "Blissta Methylene Blue — Clear Your Brain Fog",
+      "description": "Split-frame before/after. Gray smoke-wrapped brain vs electric-blue lit brain, matched by emoji-led bullet pairs — Cloudy Mind → Sharp Focus, Low Energy → Boosted Energy, Still Stuck → Clear Thinking.",
+      "category": "Supplements",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-mb-2pm-crash",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 20.jpg",
+      "title": "Blissta Methylene Blue — The 2PM Crash Is A Power Outage",
+      "description": "Lo-fi reframe creative. Yellow sticky note on oak desk next to coffee and the bottle — the only ad element is handwriting. Sells the diagnosis, not the product.",
+      "category": "Supplements",
+      "client": "Blissta"
+    },
+    {
+      "id": "blissta-mb-neon-blue-proof",
+      "filename": "Update1_2026-04-24 at 9.09.17 PM 21.jpg",
+      "title": "Blissta Methylene Blue — 14 Hours Of Neon Blue",
+      "description": "Purity proof-shot. Two Mason jars — pale yellow \"everything else\" at 3 hrs vs neon-blue Blissta at 14 hrs — with the dropper between them. Claim and evidence collapse into one image.",
+      "category": "Supplements",
+      "client": "Blissta"
     }
   ]
 }

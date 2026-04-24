@@ -11,23 +11,13 @@ const services = [
   },
   {
     n: "03",
-    title: "UGC & Mock Creatives",
-    body: "iMessage mocks, lock-screen concepts, review grids, and other scroll-native formats that read as content, not ads.",
-  },
-  {
-    n: "04",
     title: "Creative Variants & A/B Sets",
     body: "Full variant matrices — hooks, headlines, layouts, CTAs — shipped as a tested system, not one-off files.",
   },
   {
-    n: "05",
-    title: "Landing Page Creatives",
-    body: "Above-the-fold hero sections, benefit strips, and review modules that match the ad promise on click.",
-  },
-  {
-    n: "06",
+    n: "04",
     title: "Seasonal & Promo Design",
-    body: "BOGO, Valentine's, Black Friday, flash sales — promo creatives that lift discovery without cheapening the brand.",
+    body: "Halloween, Christmas, BOGO, Valentine's, Black Friday, flash sales — promo creatives that lift discovery without cheapening the brand.",
   },
 ];
 
@@ -43,7 +33,7 @@ export default function Services() {
             What I can do for you
           </h2>
         </div>
-        <ul className="grid gap-px bg-line sm:grid-cols-2 lg:grid-cols-3">
+        <ul className="grid gap-px bg-line sm:grid-cols-2">
           {services.map((s) => (
             <li
               key={s.n}
