@@ -1,0 +1,268 @@
+{
+  "works": [
+    {
+      "id": "entrepreneur-coach",
+      "filename": "Concept 4.jpg",
+      "title": "Unlocked: Entrepreneur Coach",
+      "description": "Lock-screen mockup stacking aspirational iOS-style notifications — closed deal, team kudos, vacation booked — before the product reveal. Social proof as the entire creative.",
+      "category": "Concept",
+      "client": "SaaS / Coaching App"
+    },
+    {
+      "id": "kiierr-final-sale-bundle",
+      "filename": "JOS2 - Bundle - V3 - M.jpg",
+      "title": "Kiierr — Final Sale: 20% Off",
+      "description": "Premium-feel promo for Kiierr's DHT-blocking shampoo + conditioner duo. Dark composition with natural ingredient cues (ginseng, cinnamon, ginkgo) and a 4.8★ social-proof bar anchoring the offer.",
+      "category": "Hair Care",
+      "client": "Kiierr"
+    },
+    {
+      "id": "kiierr-buy-2-64-off",
+      "filename": "JOS3 - Deal for me - V1 - M.jpg",
+      "title": "Kiierr — Why Should I Care For My Hairline?",
+      "description": "Question-led top-of-funnel creative on soft blush. Bold \"BUY 2 → Get 64% Off\" math directs attention to the bundle without shouting.",
+      "category": "Hair Care",
+      "client": "Kiierr"
+    },
+    {
+      "id": "kiierr-laser-cap-postpartum",
+      "filename": "JOS7 - Postpartum Hair Loss - V1 - F.jpg",
+      "title": "Kiierr Laser Cap — I Need This Immediately",
+      "description": "UGC-style iMessage mock pairing a postpartum before/after with a peer-to-peer text thread. 7-month money-back seal pins the offer at the bottom.",
+      "category": "Hair Care",
+      "client": "Kiierr"
+    },
+    {
+      "id": "illumiflow-16-weeks",
+      "filename": "JOS8 - Hair Growth Progression - V3 - M.png",
+      "title": "Illumiflow — Your Hair's Second Chance",
+      "description": "Month-by-month progression ad for Illumiflow's DHT-blocking shampoo. Emotional micro-copy (\"Drain stopped scaring me\") carries the journey from fear to confidence, closed with a verified-buyer quote.",
+      "category": "Hair Care",
+      "client": "Illumiflow"
+    },
+    {
+      "id": "tennis-prints-order-to-wall",
+      "filename": "Static 1a.jpg",
+      "title": "Tennis Prints — Effortless From Order To Wall",
+      "description": "Review-driven ad for a tennis stadium art print brand. Three stacked testimonials with heart icons lean on social proof next to a Wimbledon watercolor hero.",
+      "category": "Art Prints",
+      "client": "Tennis Prints"
+    },
+    {
+      "id": "yemaya-pineapple-benefits",
+      "filename": "Static 1c.jpg",
+      "title": "Yemayá Sea Moss Gel — Pineapple",
+      "description": "Benefit-stacked ad for Yemayá's pineapple sea moss gel. Dark wood backdrop keeps the pouch front-and-center while five right-side benefit cards read top-down on mobile.",
+      "category": "Supplements",
+      "client": "Yemayá"
+    },
+    {
+      "id": "kitty-queen-over-50-peach",
+      "filename": "Static 2 - V3.jpg",
+      "title": "Slippery Kitty — Your Kitty Deserves Better",
+      "description": "Problem-first ad for Kitty Queen. Two peaches — shriveled vs. ripe — carry the before/after concept wordlessly, with the product bridging them.",
+      "category": "Supplements",
+      "client": "Kitty Queen"
+    },
+    {
+      "id": "kitty-queen-confidence-back",
+      "filename": "Static 2 - V3 2.jpg",
+      "title": "Slippery Kitty — Confidence Back",
+      "description": "Hero ad for Kitty Queen's feminine probiotic gummies. Warm staging with florals, lavender, and rose quartz reframes an intimate wellness product as unapologetic self-care.",
+      "category": "Supplements",
+      "client": "Kitty Queen"
+    },
+    {
+      "id": "yemaya-strawberry-gut",
+      "filename": "Static 2a.jpg",
+      "title": "Yemayá Sea Moss Gel — Gut Health Daily Boost",
+      "description": "Clean supplement-fact layout for Yemayá's strawberry jar. Red accents and custom gut icons let it read like a label, not an ad.",
+      "category": "Supplements",
+      "client": "Yemayá"
+    },
+    {
+      "id": "lifevac-dont-wish",
+      "filename": "Static 2a 2.jpg",
+      "title": "LifeVac — Don't Wish You Had One",
+      "description": "Safety-product ad using a tense real-use photo and a five-star reassurance quote to sell peace of mind — not alarm.",
+      "category": "Safety",
+      "client": "LifeVac"
+    },
+    {
+      "id": "tennis-prints-bring-the-court",
+      "filename": "Static 2c.jpg",
+      "title": "Tennis Prints — Bring The Court They Love To Their Wall",
+      "description": "Gifting-angle ad with a soft-lit lifestyle hero and a green checklist — Legendary Courts, Historic & Modern Venues, Ideal Décor — pitching both product and occasion.",
+      "category": "Art Prints",
+      "client": "Tennis Prints"
+    },
+    {
+      "id": "kitty-queen-21-days",
+      "filename": "Static 3 - V3.jpg",
+      "title": "Slippery Kitty — Sex Like You're 25 Again",
+      "description": "Four peach halves shift week-by-week from dry and shriveled to ripe and glistening. The entire product claim is carried by the composition, then closed by a verified-buyer quote.",
+      "category": "Supplements",
+      "client": "Kitty Queen"
+    },
+    {
+      "id": "yemaya-mango-hair",
+      "filename": "Static 3c.jpg",
+      "title": "Yemayá Mango Sea Moss Gel — For Vibrant Hair",
+      "description": "Beach-side hero repositioning sea moss gel as hair care. White copy block and coral \"100% Natural\" CTA chip anchor the tropical setting.",
+      "category": "Supplements",
+      "client": "Yemayá"
+    },
+    {
+      "id": "yemaya-mango-hair-alt",
+      "filename": "Static 3c 2.jpg",
+      "title": "Yemayá Mango Sea Moss Gel — Hair Variant",
+      "description": "Paired variant of the beach-side hair-care ad, kept for client A/B testing across placements.",
+      "category": "Supplements",
+      "client": "Yemayá"
+    },
+    {
+      "id": "kitty-queen-valentines-bogo",
+      "filename": "Static 4 - V1.jpg",
+      "title": "Slippery Kitty — Valentine's Day Sale",
+      "description": "BOGO Valentine's ad for Kitty Queen. Rose gold staging, pineapple and florals, \"Feel Like Yourself Again\" 4.8★ bar at the foot of the frame.",
+      "category": "Supplements",
+      "client": "Kitty Queen"
+    },
+    {
+      "id": "kitty-queen-valentines-discomfort",
+      "filename": "Static 5 - V3.jpg",
+      "title": "Slippery Kitty — Don't Let Discomfort Ruin Valentine's",
+      "description": "Vertical seasonal creative. Satin and florals frame the product while a 90-day money-back guarantee de-risks the BOGO offer.",
+      "category": "Supplements",
+      "client": "Kitty Queen"
+    },
+    {
+      "id": "kitty-queen-not-a-bad-wife",
+      "filename": "Static 6 - V1.jpg",
+      "title": "Slippery Kitty — You're Not A Bad Wife",
+      "description": "Empathy-first creative for menopausal intimacy. A ragdoll character holding the product softens a hard emotional hook; 400K+ reviews and a 30-day guarantee de-risk the click.",
+      "category": "Supplements",
+      "client": "Kitty Queen"
+    },
+    {
+      "id": "ketro-hip-locking-up",
+      "filename": "Static Ad 24  - B2C - Hip Pain Benefits Layout - Hook 3.jpg",
+      "title": "Ketro — Can't Walk Without Your Hip Locking Up?",
+      "description": "Benefit-layout ad for Ketro's CALM magnesium cream. Six symmetrical icons — pain relief, joint recovery, calm discomfort, reduced inflammation, sleep support, improved mobility — orbit the tube.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    },
+    {
+      "id": "ketro-nerve-relief-cream",
+      "filename": "Static Ad 25 - B2C - Nerve Relief in a Cream - Hook 2.jpg",
+      "title": "Ketro — Nerve Relief In A Cream",
+      "description": "Hook-2 variant positioning Ketro's magnesium cream as a drug-free alternative for nerve pain. Minimal type, product-forward composition.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    },
+    {
+      "id": "ketro-pins-needles-h1",
+      "filename": "Static Ad 26 - B2C - Relief for Pins & Needles - Hook 1.jpg",
+      "title": "Ketro — Relief For Pins & Needles",
+      "description": "Hook-1 variant targeting the pins-and-needles audience. Clean, direct product shot with benefit headline — built for scroll-stop at small sizes.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    },
+    {
+      "id": "ketro-rub-ketro-there",
+      "filename": "Static Ad 30 - B2C - Hip Pain? Back Pain? Multi-Pain Callout Hook 3.png",
+      "title": "Ketro — Where Does It Hurt? Rub Ketro There.",
+      "description": "Multi-pain callout ad using a body-map illustration with glowing red pressure points. The headline doubles as permission to use the product anywhere.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    },
+    {
+      "id": "ketro-years-nerve-gone",
+      "filename": "Static Ad 32 - B2C - Years of Nerve Discomfort — Gone - V2.jpg",
+      "title": "Ketro — Years Of Nerve Discomfort, Gone",
+      "description": "Transformation hook with a hard-benefit headline. Version 2 of a tested layout — used to attack a chronic-pain audience segment.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    },
+    {
+      "id": "ketro-burning-pain-gone",
+      "filename": "Static Ad 33 - B2C - Burning Pain_ Gone. - V2.jpg",
+      "title": "Ketro — Burning Pain? Gone.",
+      "description": "Two-beat headline treatment — problem / resolution — paired with a hero product shot. Built for mid-funnel retargeting.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    },
+    {
+      "id": "ketro-foot-pain-relief",
+      "filename": "Static Ad 34 - Foot Pain Relief - V2.png",
+      "title": "Ketro — Foot Pain Relief",
+      "description": "Foot-specific angle for Ketro's magnesium cream. Narrower audience cut engineered to beat the broader pain-relief variants.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    },
+    {
+      "id": "ketro-tingling-stopped",
+      "filename": "Static Ad 35 - Numbness_Tingling Stopped - V1.png",
+      "title": "Ketro — The Tingling Stopped After This",
+      "description": "X-ray style hand visual pairs the jar with anatomical pain points. Trust stamps — fast-absorbing, no greasy residue, 5-star reviews, 30-day guarantee — close the frame.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    },
+    {
+      "id": "ketro-nerve-relief-gel",
+      "filename": "Static Ad 37 - Nerve Relief in a Gel - V2.png",
+      "title": "Ketro — Nerve Relief In A Gel",
+      "description": "Format-swap variant: the same hook reframed around the gel texture cue. Tests whether texture-language outperforms cream-language.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    },
+    {
+      "id": "ketro-pins-needles-v3",
+      "filename": "Static Ad 38 - Relief for Pins & Needles - V3.jpg",
+      "title": "Ketro — Relief For Pins & Needles, V3",
+      "description": "Third iteration on the pins-and-needles hook. Layout sharpened for feed — same hero, tighter type hierarchy.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    },
+    {
+      "id": "ketro-zombie-pills",
+      "filename": "Static Ad 39 - Ditch the “Zombie” Pills - V3.jpg",
+      "title": "Ketro — Ditch The \"Zombie\" Pills",
+      "description": "Split-frame ad: crossed-out pills on one side, Ketro + smeared product on the other. Yellow chips flag side effects, drowsiness, brain fog — every objection the creative exists to resolve.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    },
+    {
+      "id": "ketro-feet-starving",
+      "filename": "Static Ad 40 - Your Feet Aren’t Broken. They’re Starving - V1.jpg",
+      "title": "Ketro — Your Feet Aren't Broken. They're Starving.",
+      "description": "Reframe hook — positions foot pain as a magnesium deficiency, not a malfunction. The headline does almost all the work.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    },
+    {
+      "id": "ketro-multi-pain-v1",
+      "filename": "Static Ad 41 - Hip Pain_ Back Pain_ Multi-Pain Callout - V1.jpg",
+      "title": "Ketro — Hip Pain? Back Pain? Multi-Pain Callout",
+      "description": "V1 of the multi-pain callout. Tests whether the broadest possible pain audience can be captured in a single creative.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    },
+    {
+      "id": "ketro-years-gone-in-days",
+      "filename": "Static Ad 42 - Years of Pain — Gone in Days - V1.jpg",
+      "title": "Ketro — Years Of Pain, Gone In Days",
+      "description": "Time-collapse hook — trades the audience's timeline of suffering against a speed-of-relief promise. Built for high-intent prospecting.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    },
+    {
+      "id": "ketro-recovery-flow",
+      "filename": "Static Ad 43- The Recovery Flow - V1.jpg",
+      "title": "Ketro — The Recovery Flow",
+      "description": "Mechanism-of-action ad. Muscle Relaxation → Reduced Inflammation → Pain-Free Movement, paired with three floating Ketro jars. Teaches the product without selling it.",
+      "category": "Pain Relief",
+      "client": "Ketro"
+    }
+  ]
+}
