@@ -3,10 +3,11 @@ import Image from "next/image";
 export default function About() {
   return (
     <section id="about" className="border-t border-line py-20 md:py-28">
-      <div className="mx-auto grid max-w-[1600px] gap-10 px-6 md:grid-cols-12 md:px-10">
+      <div className="mx-auto max-w-[1600px] px-6 md:px-10">
+        <p className="mb-6 text-xs uppercase tracking-[0.3em] text-dim">About</p>
+        <div className="grid gap-10 md:grid-cols-12">
         <div className="md:col-span-4">
-          <p className="text-xs uppercase tracking-[0.3em] text-dim">About</p>
-          <div className="mt-6 overflow-hidden rounded-sm bg-line/30">
+          <div className="overflow-hidden rounded-sm bg-line/30">
             <Image
               src="/images/Profile%202.png"
               alt="Paul — static ad designer"
@@ -36,6 +37,7 @@ export default function About() {
               render clean on every placement, and make the click feel obvious.
             </p>
           </div>
+        </div>
         </div>
       </div>
     </section>

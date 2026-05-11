@@ -3,8 +3,8 @@
 import { useState } from "react";
 
 const VIDEOS = [
-  { id: "7dvVQ6a4KLU", label: "Client Testimonial 1" },
-  { id: "p34NXftuVWE", label: "Client Testimonial 2" },
+  { id: "1toqdFZgaz7oouIk-11SmK6rj71AC71nO", label: "Client Testimonial 1" },
+  { id: "10c8Assccr_KBxmHJ7x1L-8tlQkp1oItW", label: "Client Testimonial 2" },
 ];
 
 const CARD_W = 310;
@@ -60,8 +60,8 @@ export default function TestimonialStack() {
               {isActive ? (
                 <iframe
                   key={autoplayKey}
-                  src={`https://www.youtube.com/embed/${video.id}?autoplay=1&mute=1&loop=1&playlist=${video.id}&playsinline=1&rel=0`}
-                  allow="autoplay; encrypted-media; fullscreen"
+                  src={`https://drive.google.com/file/d/${video.id}/preview?autoplay=1`}
+                  allow="autoplay; fullscreen"
                   allowFullScreen
                   title={video.label}
                   className="h-full w-full"
@@ -69,7 +69,7 @@ export default function TestimonialStack() {
               ) : (
                 // eslint-disable-next-line @next/next/no-img-element
                 <img
-                  src={`https://img.youtube.com/vi/${video.id}/hqdefault.jpg`}
+                  src={`https://drive.google.com/thumbnail?id=${video.id}&sz=w400`}
                   alt={video.label}
                   className="h-full w-full object-cover"
                 />
